@@ -1,0 +1,2 @@
+.todo-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));grid-gap:20px;gap:20px;list-style:none}.todo-list__item{padding:10px;background-color:beige;border:5px solid #fabd4b;border-radius:10px}
+/*# sourceMappingURL=main.be378d9d.chunk.css.map */
